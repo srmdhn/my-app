@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cvCI/static/css/main.251a81e2.css",
+    "main.js": "/cvCI/static/js/main.7d322242.js",
+    "static/media/port0.PNG": "/cvCI/static/media/port0.1ec11b05b2c6f9a74d4a.PNG",
+    "static/media/cv.pdf": "/cvCI/static/media/cv.3a104fc83b13db1e6836.pdf",
+    "static/media/tampil-removebg-preview.png": "/cvCI/static/media/tampil-removebg-preview.e03a1dc260fe893e1b08.png",
+    "static/media/me.jpeg": "/cvCI/static/media/me.2acfd56effb509209175.jpeg",
+    "static/media/sirvc.JPEG": "/cvCI/static/media/sirvc.aa7f05baf47bf2f9ee0b.JPEG",
+    "index.html": "/cvCI/index.html",
+    "main.251a81e2.css.map": "/cvCI/static/css/main.251a81e2.css.map",
+    "main.7d322242.js.map": "/cvCI/static/js/main.7d322242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251a81e2.css",
+    "static/js/main.7d322242.js"
+  ]
+}
