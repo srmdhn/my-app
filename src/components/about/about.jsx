@@ -43,7 +43,7 @@ return (
         <article className='about__card'>
           <RiRoadMapFill className="about__icon" />
           <h5>Address</h5>
-          <small><a href='https://maps.app.goo.gl/iM11SauRbEKV55Hz7'target="_blank">JL.Beringin Raya,RT.005/RW.004, Kranji, Kec. Bekasi Barat., Kota Bks, Jawa Barat</a></small>
+          <small><a href='https://maps.app.goo.gl/iM11SauRbEKV55Hz7'target="_blank" rel="noopener noreferrer">JL.Beringin Raya,RT.005/RW.004, Kranji, Kec. Bekasi Barat., Kota Bks, Jawa Barat</a></small>
         </article>
         </div>
 
